@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="CondoGest.BLL/CondoGest.BLL.csproj" Id="6e65817f-fdfc-4b9d-b816-4a29e186cc39" />
+  <Project Path="CondoGest.DAL/CondoGest.DAL.csproj" Id="630084a7-b2eb-46b3-9f22-b5efa451da57" />
+  <Project Path="CondoGest.DTO/CondoGest.DTO.csproj" Id="3108a243-596e-463b-8f35-41259bb7796a" />
+  <Project Path="CondoGest.Entities/CondoGest.Entities.csproj" Id="923f98a5-dc22-4109-9ea1-8596ac28d549" />
+  <Project Path="CondoGest.Interfaces/CondoGest.Interfaces.csproj" Id="72d4edc7-b074-4df8-974e-e7b73df25c9b" />
+  <Project Path="CondoGest.UI/CondoGest.UI.csproj" Id="5a4953be-8f95-4cfb-a802-6b5733afa2e5" />
+  <Project Path="CondoGest.Util/CondoGest.Util.csproj" Id="f355653f-80e4-461e-a1ab-dc01b49e3ebc" />
+</Solution>

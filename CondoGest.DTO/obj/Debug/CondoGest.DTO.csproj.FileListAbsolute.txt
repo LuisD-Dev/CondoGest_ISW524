@@ -1,0 +1,6 @@
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DTO\bin\Debug\CondoGest.DTO.dll
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DTO\bin\Debug\CondoGest.DTO.pdb
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DTO\obj\Debug\CondoGest.DTO.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DTO\obj\Debug\CondoGest.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DTO\obj\Debug\CondoGest.DTO.dll
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DTO\obj\Debug\CondoGest.DTO.pdb

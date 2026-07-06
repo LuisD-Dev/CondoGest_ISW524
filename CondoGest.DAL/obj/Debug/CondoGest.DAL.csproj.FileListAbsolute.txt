@@ -1,0 +1,15 @@
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DAL\bin\Debug\CondoGest.DAL.dll
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DAL\bin\Debug\CondoGest.DAL.pdb
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DAL\bin\Debug\CondoGest.DTO.dll
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DAL\bin\Debug\CondoGest.Entities.dll
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DAL\bin\Debug\CondoGest.Interfaces.dll
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DAL\bin\Debug\CondoGest.Util.dll
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DAL\bin\Debug\CondoGest.DTO.pdb
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DAL\bin\Debug\CondoGest.Entities.pdb
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DAL\bin\Debug\CondoGest.Interfaces.pdb
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DAL\bin\Debug\CondoGest.Util.pdb
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DAL\obj\Debug\CondoGest.DAL.csproj.AssemblyReference.cache
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DAL\obj\Debug\CondoGest.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DAL\obj\Debug\CondoGes.837511BA.Up2Date
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DAL\obj\Debug\CondoGest.DAL.dll
+C:\Users\Intel\source\repos\CondoGest_ISW524\CondoGest.DAL\obj\Debug\CondoGest.DAL.pdb
